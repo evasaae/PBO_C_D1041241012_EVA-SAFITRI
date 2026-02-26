@@ -7,7 +7,7 @@ Program
 public class LatihanBilangan {
     public static void main(String[] args) {
         System.out.println(" === PEMERIKSAAN BILANGAN === ");
-        int bilangan = 0;
+        int bilangan = -7;
         String jenis;
         if (bilangan > 0) {
             jenis = "Bilangan positif";
