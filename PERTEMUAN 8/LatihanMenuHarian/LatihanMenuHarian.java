@@ -3,8 +3,6 @@ Nim  : D1041241012
 Nama : Eva Safitri
 Program untuk menampilkan menu makan untuk 3 hari, masing-masing dengan 2 waktu makan (pagi dan siang).
 */
-//package LatihanMenuHarian;
-
 public class LatihanMenuHarian {
      public static void main(String[] args) {
         System.out.println("=== MENU MAKAN 3 HARI ===");
